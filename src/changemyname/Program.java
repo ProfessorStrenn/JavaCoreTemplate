@@ -1,4 +1,4 @@
-package changeme;
+package changemyname;
 
 import static sbcc.Core.*;
 import static java.lang.System.*;
