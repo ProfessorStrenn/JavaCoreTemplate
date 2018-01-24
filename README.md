@@ -46,3 +46,10 @@ String[] titles = substringsBetween(quakesXml, "<title>", "</title>");
 ```
 
 * [PMD](https://pmd.github.io/) support, including a tailored set of rules (`cs106.ruleset`).
+
+
+# STATIC IMPORT OF CORE FUNCTIONALITY
+JavaCoreTemplate's Main class already has the Core functionality statically imported.  If that static import has been removed, and to add core functionality to other classes, add the following static import at the top of the .java file:
+```java
+import static sbcc.Core.*;
+```
