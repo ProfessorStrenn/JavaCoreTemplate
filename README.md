@@ -1,6 +1,6 @@
 # JavaCoreTemplate
 Includes:
-* `Program.java`, with a `main()` that is ready to go, and has useful classes statically imported.
+* `Main.java`, with a `main()` that is ready to go, and has useful classes statically imported.
 
 * `sbcccore`:  Use `println()` instead of `System.out.println()`.  Lots of other functions that make Java life much nicer:  `readFile()`, `readFileAsLines()`, `writeFile()`, `readLine()`.  See [sbcccore](https://github.com/ProfessorStrenn/SbccCore) for details.
 
