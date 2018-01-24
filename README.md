@@ -3,15 +3,13 @@
 Includes:
 * `Main.java`, with a `main()` that is ready to go, and has useful classes statically imported.
 
-* Provides simple static functions that make Java a *whole* lot easier to use:
+* Provides simple static functions that make Java a **whole lot easier to use**.  For example, to print to the screen it's just:
 
 ```java
 println("Hello");
 ```
-rather than 
-```java
-System.out.println("Hello");
-```
+rather than the EVIL `System.out.println("Hello");`
+
 Read a whole file into a String with one line of code:
 ```java
 String quakeText = readFile("4.5_week.atom");
