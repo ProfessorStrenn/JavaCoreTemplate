@@ -1,4 +1,4 @@
-# JavaCoreTemplate
+# JavaCoreTemplate v4
 
 Includes:
 * `Main.java`, with a `main()` that is ready to go, and has useful classes statically imported.
