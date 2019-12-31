@@ -16,7 +16,7 @@ String quakeText = readFile("4.5_week.atom");
 ```
 Read a file into a list of Strings:
 ```java
-List<String> words = readFileAsLines("dict.txt");
+var words = readFileAsLines("dict.txt");
 ```
 Write a String to a file:
 ```java
@@ -40,7 +40,7 @@ Parse ints, floats, etc w/o having to put Integer in front:
 parseInt/Long/Float/Double/Boolean()
 ```
 
-* `commons-lang3`:  With the wonderful `StringUtils`, which has `join`, `substringsBetween`, `reverse`, etc.  For example:
+* `commons-lang3`:  With the wonderful [`StringUtils`](https://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/StringUtils.html), which has `join`, `substringsBetween`, `reverse`, etc.  For example:
 ```java
 String[] titles = substringsBetween(quakesXml, "<title>", "</title>");
 ```
