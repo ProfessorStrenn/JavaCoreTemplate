@@ -40,6 +40,12 @@ Parse ints, floats, etc w/o having to put Integer in front:
 parseInt/Long/Float/Double/Boolean()
 ```
 
+Use range() to loop in a pythonic manner:
+```java
+for (var x : range(10))
+	println("Hello " + x);
+```
+
 * `commons-lang3`:  With the wonderful [`StringUtils`](https://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/StringUtils.html), which has `join`, `substringsBetween`, `reverse`, etc.  For example:
 ```java
 String[] titles = substringsBetween(quakesXml, "<title>", "</title>");
