@@ -52,9 +52,10 @@ int age = parseInt(text);
 ```
 
 # Easy list and map creation
+```java
 var list = listOf("This", "That", "The other");   // Creates a mutable ArrayList.  Supports up to 10 values.
-
 var map = mapOf("key1", value1, "key2", value2);  // Creates a mutable HashMap.  Supports up to 10 key/value pairs.
+```java
 
 # range
 Use range() to loop in a pythonic manner:
