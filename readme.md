@@ -3,11 +3,8 @@
 To start each project in Intellij IDEA:
 1. File | New | Project from Version Control... (or Get from VCS at the Welcome window).
 2. Enter `https://github.com/ProfessorStrenn/JavaCoreTemplate` for the URL.
-3. Change the last Directory element from JavaCoreTemplate to the name of your project.
-
-![Get from VCS](get_from_vcs.png "Get from VCS")
-
-5. Clone.
+3. Change the last Directory element from `JavaCoreTemplate` to the name of your project - e.g. `MMarciano_RockCountdown_F35`.
+4. Clone.
 
 # HERE ARE SOME OF THE GOODIES - starting with Main
 Includes `Main.java`, with a `main()` function that is ready to go, and has useful classes statically imported.
