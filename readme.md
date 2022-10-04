@@ -1,4 +1,4 @@
-# JavaCoreTemplate v4
+# JavaCoreTemplate v6
 
 Make a copy of this project when starting each assignment.  The JavaCoreTemplate project supports the following goodies:
 
