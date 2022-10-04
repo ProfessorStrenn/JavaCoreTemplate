@@ -7,7 +7,7 @@ To start each project in Intellij IDEA:
 4. Clone.
 
 # A SIMPLER JAVA
-The JavaCoreTemplate includes a `Main.java` class with a `main()` function that is ready to go, and has useful classes statically imported.
+The JavaCoreTemplate includes a `Main.java` class with a `main()` function that is ready to go.  And it has a bunch of classes statically imported, allowing you to do things like:
 
 # println
 Eliminate the EVIL `System.out.` and just use:
