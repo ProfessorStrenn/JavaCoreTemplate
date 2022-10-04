@@ -1,4 +1,4 @@
-# JAVA CORE TEMPLATE - A SIMPLER JAVA
+# JAVA CORE TEMPLATE - QUICKSTART
 
 To start each project in Intellij IDEA:
 1. File | New | Project from Version Control... (or Get from VCS at the Welcome window).
@@ -6,8 +6,8 @@ To start each project in Intellij IDEA:
 3. Change the last Directory element from `JavaCoreTemplate` to the name of your project - e.g. `MMarciano_RockCountdown_F35`.
 4. Clone.
 
-# HERE ARE SOME OF THE GOODIES - starting with Main
-Includes `Main.java`, with a `main()` function that is ready to go, and has useful classes statically imported.
+# A SIMPLER JAVA
+The JavaCoreTemplate includes a `Main.java` class with a `main()` function that is ready to go, and has useful classes statically imported.
 
 # println
 Eliminate the EVIL `System.out.` and just use:
@@ -21,7 +21,7 @@ String s = readLine();
 ```
 
 # readFile
-Read a whole file into a String with one line of code:
+Read a whole file into a String with a single line of code:
 ```java
 String quakeText = readFile("4.5_week.atom");
 ```
