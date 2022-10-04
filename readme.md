@@ -52,11 +52,7 @@ Parse ints, floats, etc w/o having to put `Integer.` in front:
 int age = parseInt(text);
 ```
 
-<<<<<<< HEAD
 # listOf and mapOf
-=======
-# Easy list and map creation
->>>>>>> 7bbd643e006b1819e5311c49cba7fe1bc5b8af8d
 ```java
 var list = listOf("This", "That", "The other");   // Creates a mutable ArrayList.
 var map = mapOf("key1", value1, "key2", value2);  // Creates a mutable HashMap.
@@ -83,19 +79,3 @@ JavaCoreTemplate's `Main` class already has the `Core` functionality statically 
 ```java
 import static sbcc.Core.*;
 ```
-<<<<<<< HEAD
-&nbsp;
-=======
-&nbsp;
-
-# TO USE
-1.  Download [workspace-cs106-v4.zip](https://github.com/ProfessorStrenn/workspace-cs106/releases/download/4.0.3/workspace-cs106-v4.zip)
-2.  If you are on a CS Lab computer:
-    1.  Unzip this archive onto the root of the X: drive.
-    2.  Double-click the `C106 - Eclipse - Java` shortcut.
-3.  If you are on your own computer:
-    1.  File | Switch Workspace | Other...
-    2.  Navigate to where you unzipped workspace-cs106-v4.
-    3.  Click OK, then click OK again.
-4.  If you haven't already done so, check out the [time-saving features that the workspace offers](#WORKSPACE-CS106)
->>>>>>> 7bbd643e006b1819e5311c49cba7fe1bc5b8af8d
