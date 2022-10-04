@@ -1,6 +1,4 @@
-# MAKING JAVA PROGRAMMING SIMPLER
-
-# JavaCoreTemplate v6
+# JAVA CORE TEMPLATE - A SIMPLER JAVA
 
 To start each project in Intellij IDEA:
 1. New Project from Version Control.
@@ -8,7 +6,7 @@ To start each project in Intellij IDEA:
 3. Change the last Directory element from JavaCoreTemplate to the name of your project.
 4. Clone.
 
-# Main
+# HERE ARE SOME OF THE GOODIES - Starting with Main
 Includes `Main.java`, with a `main()` function that is ready to go, and has useful classes statically imported.
 
 # println
