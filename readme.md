@@ -5,7 +5,7 @@ To start each project in Intellij IDEA:
 2. Enter `https://github.com/ProfessorStrenn/JavaCoreTemplate` for the URL.
 3. Change the last Directory element from `JavaCoreTemplate` to the name of your project - e.g. `MMarciano_RockCountdown_F35`.
 4. Clone.
-5. Change the `changemyname` package to match your current project's name.
+5. Change the `changemyname` package to match your current project's name - e.g. `rockcountdown`
 
 # A SIMPLER JAVA
 The template's `src` folder includes a `Main.java` class that is ready to go.  It has a bunch of functionality statically imported, allowing you to do things like:
