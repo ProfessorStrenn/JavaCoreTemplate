@@ -53,9 +53,10 @@ int age = parseInt(text);
 ```
 
 # listOf and mapOf
+Easily create mutable lists and maps.
 ```java
-var list = listOf("This", "That", "The other");   // Creates a mutable ArrayList.
-var map = mapOf("key1", value1, "key2", value2);  // Creates a mutable HashMap.
+var list = listOf("This", "That", "The other");
+var map = mapOf("key1", value1, "key2", value2);
 ```
 
 # range
