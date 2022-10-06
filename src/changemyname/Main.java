@@ -1,8 +1,5 @@
 package changemyname;
 
-import java.io.IOException;
-import java.util.Map;
-
 import static sbcc.Core.*;
 import static java.lang.System.*;
 import static org.apache.commons.lang3.StringUtils.*;
