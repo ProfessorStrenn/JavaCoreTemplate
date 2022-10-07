@@ -1,4 +1,4 @@
-package changemyname;
+package edu.sbcc.cs;
 
 import static sbcc.Core.*;
 import static java.lang.System.*;
