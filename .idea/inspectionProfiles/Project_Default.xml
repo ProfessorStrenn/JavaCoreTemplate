@@ -839,7 +839,7 @@
     <inspection_tool class="DynamicRegexReplaceableByCompiledPattern" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="EmptyClass" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="EmptyClass" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false">
         <option name="ignorableAnnotations">
           <value />
