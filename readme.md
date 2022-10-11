@@ -7,7 +7,7 @@ To start each project in Intellij IDEA:
 4. Clone.
 
 # A SIMPLER JAVA
-The template's `src` folder includes a `Main.java` class that is ready to go.  It has a bunch of functionality statically imported, allowing you to do things like:
+The template's `src/cs106` folder includes a `Main.java` class that is ready to go.  It has a bunch of functionality statically imported, allowing you to do things like:
 
 # println
 Eliminate the EVIL `System.out.` and just use:
@@ -76,7 +76,7 @@ String[] titles = substringsBetween(quakesXml, "<title>", "</title>");
 [PMD](https://pmd.github.io/) support, including a tailored set of rules (`cs106.ruleset`).
 
 # STATIC IMPORT OF CORE FUNCTIONALITY
-JavaCoreTemplate's `Main` class already has the `Core` functionality statically imported.  To add `Core` functionality to other classes, add the following static import at the top of the `.java` file:
+JavaCoreTemplate's `Main` class already has the `Core` functionality statically imported.  To add `Core` functionality to other classes, simply put the following static import at the top of the `.java` file:
 ```java
 import static sbcc.Core.*;
 ```
