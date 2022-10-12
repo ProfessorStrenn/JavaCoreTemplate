@@ -1,0 +1,97 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Default" />
+    <inspection_tool class="AccessStaticViaInstance" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ArrayEquality" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="BusyWait" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CanBeFinal" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="REPORT_CLASSES" value="false" />
+      <option name="REPORT_METHODS" value="false" />
+      <option name="REPORT_FIELDS" value="true" />
+    </inspection_tool>
+    <inspection_tool class="CharsetObjectCanBeUsed" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ConditionalCanBeOptional" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="ConditionalCanBePushedInsideExpression" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="ConditionalExpression" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="DataProviderReturnType" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="DefaultAnnotationParam" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DeprecatedIsStillUsed" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DeprecatedLombok" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DuplicatedDataProviderNames" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="FormSpellChecking" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FuseStreamOperations" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="IgnoreResultOfCall" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="m_reportAllNonLibraryCalls" value="false" />
+      <option name="callCheckString" value="java.io.File,.*,java.io.InputStream,read|skip|available|markSupported,java.io.Reader,read|skip|ready|markSupported,java.lang.AbstractStringBuilder,capacity|codePointAt|codePointBefore|codePointCount|indexOf|lastIndexOf|offsetByCodePoints|substring|subSequence,java.lang.Boolean,.*,java.lang.Byte,.*,java.lang.Character,.*,java.lang.Double,.*,java.lang.Float,.*,java.lang.Integer,.*,java.lang.Long,.*,java.lang.Math,.*,java.lang.Object,equals|hashCode|toString,java.lang.Short,.*,java.lang.StrictMath,.*,java.lang.String,.*,java.lang.Thread,interrupted,java.math.BigDecimal,.*,java.math.BigInteger,.*,java.net.InetAddress,.*,java.net.URI,.*,java.nio.channels.AsynchronousChannelGroup,.*,java.util.Arrays,.*,java.util.Collections,(?!addAll).*,java.util.List,of,java.util.Map,of|ofEntries|entry,java.util.Set,of,java.util.UUID,.*,java.util.concurrent.BlockingQueue,offer|remove,java.util.concurrent.CountDownLatch,await|getCount,java.util.concurrent.ExecutorService,awaitTermination|isShutdown|isTerminated,java.util.concurrent.ForkJoinPool,awaitQuiescence,java.util.concurrent.Semaphore,tryAcquire|availablePermits|isFair|hasQueuedThreads|getQueueLength|getQueuedThreads,java.util.concurrent.locks.Condition,await|awaitNanos|awaitUntil,java.util.concurrent.locks.Lock,tryLock|newCondition,java.util.regex.Matcher,pattern|toMatchResult|start|end|group|groupCount|matches|find|lookingAt|quoteReplacement|replaceAll|replaceFirst|regionStart|regionEnd|hasTransparentBounds|hasAnchoringBounds|hitEnd|requireEnd,java.util.regex.Pattern,.*,java.util.stream.BaseStream,.*,java.util.stream.DoubleStream,.*,java.util.stream.IntStream,.*,java.util.stream.LongStream,.*,java.util.stream.Stream,.*" />
+    </inspection_tool>
+    <inspection_tool class="JavadocBlankLines" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="LambdaBodyCanBeCodeBlock" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="LambdaCanBeReplacedWithAnonymous" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="LambdaParameterTypeCanBeSpecified" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="ListRemoveInLoop" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="Lombok" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MalformedDataProvider" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MethodRefCanBeReplacedWithLambda" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="MultipleVariablesInDeclaration" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="NewClassNamingConvention" enabled="true" level="WARNING" enabled_by_default="true">
+      <extension name="JUnitTestClassNamingConvention" enabled="true">
+        <option name="m_regex" value="[A-Z][A-Za-z\d]*Test(er|s|Case)?|Test[A-Z][A-Za-z\d]*|IT(.*)|(.*)IT(Case)?" />
+        <option name="m_minLength" value="5" />
+        <option name="m_maxLength" value="255" />
+      </extension>
+    </inspection_tool>
+    <inspection_tool class="ObjectEquality" enabled="true" level="TEXT ATTRIBUTES" enabled_by_default="true">
+      <option name="m_ignoreEnums" value="true" />
+      <option name="m_ignoreClassObjects" value="true" />
+      <option name="m_ignorePrivateConstructors" value="false" />
+    </inspection_tool>
+    <inspection_tool class="OverlyComplexArithmeticExpression" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_limit" value="6" />
+    </inspection_tool>
+    <inspection_tool class="PlaceholderCountMatchesArgumentCount" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PublicField" enabled="false" level="INFORMATION" enabled_by_default="false">
+      <option name="ignoreEnums" value="false" />
+      <option name="ignorableAnnotations">
+        <value />
+      </option>
+    </inspection_tool>
+    <inspection_tool class="ReassignedVariable" enabled="false" level="TEXT ATTRIBUTES" enabled_by_default="false" />
+    <inspection_tool class="RecordCanBeClass" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="RedundantModifiersValLombok" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RedundantModifiersValueLombok" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RedundantSlf4jDefinition" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ReturnSeparatedFromComputation" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="SameParameterValue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SimplifiableEqualsExpression" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+    <inspection_tool class="SpringQualifierCopyableLombok" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="StreamToLoop" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="StringBufferReplaceableByString" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SuspiciousSystemArraycopy" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="TailRecursion" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="ThrowablePrintedToSystemOut" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="TooBroadScope" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <option name="m_allowConstructorAsInitializer" value="false" />
+      <option name="m_onlyLookAtBlocks" value="true" />
+    </inspection_tool>
+    <inspection_tool class="TryStatementWithMultipleResources" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="TypeParameterExtendsObject" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UNUSED_IMPORT" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnnecessarilyQualifiedStaticallyImportedElement" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnnecessaryConstantArrayCreationExpression" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnnecessaryThis" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnusedReturnValue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="dependsOnMethodTestNG" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="groupsTestNG" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="groups">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
