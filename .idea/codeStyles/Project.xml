@@ -1,0 +1,17 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <JavaCodeStyleSettings>
+      <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+        <value>
+          <package name="java.awt" withSubpackages="false" static="false" />
+          <package name="sbcc.Core" withSubpackages="true" static="true" />
+          <package name="java.lang.System" withSubpackages="true" static="true" />
+          <package name="org.apache.commons.lang3.StringUtils" withSubpackages="true" static="true" />
+          <package name="java.util.Arrays" withSubpackages="true" static="true" />
+          <package name="java.lang.Math" withSubpackages="true" static="true" />
+          <package name="javax.swing" withSubpackages="false" static="false" />
+        </value>
+      </option>
+    </JavaCodeStyleSettings>
+  </code_scheme>
+</component>
