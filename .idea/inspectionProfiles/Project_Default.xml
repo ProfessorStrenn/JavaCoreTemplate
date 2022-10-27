@@ -1434,7 +1434,7 @@
     <inspection_tool class="JavadocBlankLines" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="JavadocDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="JavadocDeclaration" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="JavadocHtmlLint" enabled="true" level="ERROR" enabled_by_default="true">
