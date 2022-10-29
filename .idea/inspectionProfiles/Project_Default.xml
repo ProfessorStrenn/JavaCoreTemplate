@@ -742,7 +742,7 @@
       </scope>
       <option name="m_limit" value="10" />
     </inspection_tool>
-    <inspection_tool class="DanglingJavadoc" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="DanglingJavadoc" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="DataProviderReturnType" enabled="false" level="ERROR" enabled_by_default="false">
@@ -1156,7 +1156,7 @@
       </scope>
       <option name="insideTryAllowed" value="false" />
     </inspection_tool>
-    <inspection_tool class="HtmlTagCanBeJavadocTag" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="HtmlTagCanBeJavadocTag" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="IOResource" enabled="true" level="WARNING" enabled_by_default="true">
@@ -1431,19 +1431,19 @@
     <inspection_tool class="JavacQuirks" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="JavadocBlankLines" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="JavadocBlankLines" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="JavadocDeclaration" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="JavadocHtmlLint" enabled="true" level="ERROR" enabled_by_default="true">
+    <inspection_tool class="JavadocHtmlLint" enabled="false" level="ERROR" enabled_by_default="false">
       <scope name="Documentation" level="ERROR" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="JavadocLinkAsPlainText" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="JavadocLinkAsPlainText" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="JavadocReference" enabled="true" level="ERROR" enabled_by_default="true">
+    <inspection_tool class="JavadocReference" enabled="false" level="ERROR" enabled_by_default="false">
       <scope name="Documentation" level="ERROR" enabled="false" />
     </inspection_tool>
     <inspection_tool class="JoinDeclarationAndAssignmentJava" enabled="true" level="INFORMATION" enabled_by_default="true">
@@ -1726,7 +1726,7 @@
     <inspection_tool class="MisorderedAssertEqualsArguments" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="MissingDeprecatedAnnotation" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="MissingDeprecatedAnnotation" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="MissingJavadoc" enabled="false" level="WARNING" enabled_by_default="false">
@@ -2135,7 +2135,7 @@
     <inspection_tool class="OverwrittenKey" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="PackageDotHtmlMayBePackageInfo" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="PackageDotHtmlMayBePackageInfo" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="PackageInMultipleModules" enabled="true" level="WARNING" enabled_by_default="true">
@@ -2492,7 +2492,7 @@
     <inspection_tool class="ReplaceOnLiteralHasNoEffect" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" editorAttributes="NOT_USED_ELEMENT_ATTRIBUTES" />
     </inspection_tool>
-    <inspection_tool class="ReplaceWithJavadoc" enabled="true" level="INFORMATION" enabled_by_default="true">
+    <inspection_tool class="ReplaceWithJavadoc" enabled="false" level="INFORMATION" enabled_by_default="false">
       <scope name="Documentation" level="INFORMATION" enabled="false" />
     </inspection_tool>
     <inspection_tool class="ResultOfObjectAllocationIgnored" enabled="true" level="WARNING" enabled_by_default="true">
@@ -3224,13 +3224,13 @@
       <option name="m_ignoreJavadoc" value="false" />
       <option name="ignoreInModuleStatements" value="true" />
     </inspection_tool>
-    <inspection_tool class="UnnecessaryInheritDoc" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="UnnecessaryInheritDoc" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="UnnecessaryInitCause" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" editorAttributes="NOT_USED_ELEMENT_ATTRIBUTES" />
     </inspection_tool>
-    <inspection_tool class="UnnecessaryJavaDocLink" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="UnnecessaryJavaDocLink" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false">
         <option name="ignoreInlineLinkToSuper" value="false" />
       </scope>
