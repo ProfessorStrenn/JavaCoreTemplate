@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7f06d6d1-c3be-4eb8-b4df-25f1aa514b6a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +46,7 @@
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.21663244",
-    "settings.editor.selected.configurable": "Errors"
+    "settings.editor.selected.configurable": "project.propCompiler"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -91,6 +94,7 @@
       <workItem from="1666577052000" duration="11000" />
       <workItem from="1666842890488" duration="783000" />
       <workItem from="1666845290846" duration="1874000" />
+      <workItem from="1667086020622" duration="692000" />
     </task>
     <servers />
   </component>
