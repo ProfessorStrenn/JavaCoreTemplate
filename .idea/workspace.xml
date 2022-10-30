@@ -46,7 +46,7 @@
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.21663244",
-    "settings.editor.selected.configurable": "Errors"
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -94,7 +94,7 @@
       <workItem from="1666577052000" duration="11000" />
       <workItem from="1666842890488" duration="783000" />
       <workItem from="1666845290846" duration="1874000" />
-      <workItem from="1667086020622" duration="832000" />
+      <workItem from="1667086020622" duration="2146000" />
     </task>
     <servers />
   </component>
