@@ -573,7 +573,7 @@
     <inspection_tool class="CollectionsMustHaveInitialCapacity" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="CommentedOutCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <inspection_tool class="CommentedOutCode" enabled="false" level="WEAK WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WEAK WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="ComparableImplementedButEqualsNotOverridden" enabled="true" level="WARNING" enabled_by_default="true">
@@ -1618,7 +1618,7 @@
     <inspection_tool class="MetaAnnotationWithoutRuntimeRetention" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="MethodCallInLoopCondition" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="MethodCallInLoopCondition" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="MethodCanBeVariableArityMethod" enabled="true" level="INFORMATION" enabled_by_default="true">
@@ -1830,7 +1830,7 @@
     <inspection_tool class="NegativelyNamedBooleanVariable" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="NestedAssignment" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="NestedAssignment" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="NestedConditionalExpression" enabled="true" level="WARNING" enabled_by_default="true">
@@ -2965,7 +2965,7 @@
     <inspection_tool class="SystemGetenv" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="SystemOutErr" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="SystemOutErr" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="SystemProperties" enabled="true" level="WARNING" enabled_by_default="true">
