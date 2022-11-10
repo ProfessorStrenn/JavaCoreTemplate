@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="commons-io-2.11.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://commons.apache.org/proper/commons-io/apidocs/index.html" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
