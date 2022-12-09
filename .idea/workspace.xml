@@ -46,7 +46,7 @@
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.21663244",
-    "settings.editor.selected.configurable": "editor.preferences.completion"
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -97,7 +97,8 @@
       <workItem from="1667086020622" duration="9482000" />
       <workItem from="1667613146999" duration="2154000" />
       <workItem from="1667956983715" duration="621000" />
-      <workItem from="1668098245774" duration="101000" />
+      <workItem from="1668098245774" duration="129000" />
+      <workItem from="1670608528490" duration="1367000" />
     </task>
     <servers />
   </component>
