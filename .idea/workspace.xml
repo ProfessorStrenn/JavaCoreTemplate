@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f06d6d1-c3be-4eb8-b4df-25f1aa514b6a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCoreTemplate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCoreTemplate.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/batch_grader.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cs106/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs106/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7f06d6d1-c3be-4eb8-b4df-25f1aa514b6a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +117,7 @@
       <workItem from="1670608528490" duration="1367000" />
       <workItem from="1670614343793" duration="3224000" />
       <workItem from="1670635133331" duration="203000" />
-      <workItem from="1670635347206" duration="745000" />
+      <workItem from="1670635347206" duration="1127000" />
     </task>
     <servers />
   </component>
