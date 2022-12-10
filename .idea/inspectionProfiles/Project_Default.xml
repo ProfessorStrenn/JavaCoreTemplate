@@ -53,13 +53,13 @@
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="AndroidLintTypos" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="Annotation" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="Annotation" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="AnnotationClass" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="AnnotationClass" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="Anonymous2MethodRef" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="Anonymous2MethodRef" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" editorAttributes="NOT_USED_ELEMENT_ATTRIBUTES" />
     </inspection_tool>
     <inspection_tool class="AnonymousClassComplexity" enabled="true" level="WARNING" enabled_by_default="true">
@@ -77,7 +77,7 @@
     <inspection_tool class="AnonymousClassVariableHidesContainingMethodVariable" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="AnonymousHasLambdaAlternative" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="AnonymousHasLambdaAlternative" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" editorAttributes="NOT_USED_ELEMENT_ATTRIBUTES" />
     </inspection_tool>
     <inspection_tool class="AnonymousInnerClass" enabled="true" level="WARNING" enabled_by_default="true">
@@ -119,7 +119,7 @@
     <inspection_tool class="AssertMessageNotString" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="AssertStatement" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="AssertStatement" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="AssertWithSideEffects" enabled="true" level="WARNING" enabled_by_default="true">
@@ -155,7 +155,7 @@
     <inspection_tool class="AssignmentToNull" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="AssignmentToStaticFieldFromInstanceMethod" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="AssignmentToStaticFieldFromInstanceMethod" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="AssignmentToSuperclassField" enabled="true" level="WARNING" enabled_by_default="true">
@@ -234,7 +234,7 @@
     <inspection_tool class="BigDecimalEquals" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="BigDecimalLegacyMethod" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="BigDecimalLegacyMethod" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="BigDecimalMethodWithoutRoundingCalled" enabled="true" level="WARNING" enabled_by_default="true">
@@ -390,7 +390,7 @@
     <inspection_tool class="CheckedExceptionClass" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="ClassCanBeRecord" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <inspection_tool class="ClassCanBeRecord" enabled="false" level="WEAK WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WEAK WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="ClassComplexity" enabled="true" level="WARNING" enabled_by_default="true">
@@ -555,7 +555,7 @@
       </scope>
       <option name="m_ignoreCloneableDueToInheritance" value="true" />
     </inspection_tool>
-    <inspection_tool class="CodeBlock2Expr" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="CodeBlock2Expr" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" editorAttributes="NOT_USED_ELEMENT_ATTRIBUTES" />
     </inspection_tool>
     <inspection_tool class="CollectionAddAllCanBeReplacedWithConstructor" enabled="true" level="WARNING" enabled_by_default="true">
@@ -567,7 +567,7 @@
     <inspection_tool class="CollectionContainsUrl" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="CollectionsFieldAccessReplaceableByMethodCall" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="CollectionsFieldAccessReplaceableByMethodCall" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="CollectionsMustHaveInitialCapacity" enabled="false" level="WARNING" enabled_by_default="false">
@@ -579,7 +579,7 @@
     <inspection_tool class="ComparableImplementedButEqualsNotOverridden" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="ComparatorCombinators" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="ComparatorCombinators" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" editorAttributes="NOT_USED_ELEMENT_ATTRIBUTES" />
     </inspection_tool>
     <inspection_tool class="ComparatorMethodParameterNotUsed" enabled="true" level="WARNING" enabled_by_default="true">
@@ -697,16 +697,16 @@
     <inspection_tool class="ControlFlowStatementWithoutBraces" enabled="true" level="INFORMATION" enabled_by_default="true">
       <scope name="Documentation" level="INFORMATION" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="Convert2Diamond" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="Convert2Diamond" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" editorAttributes="NOT_USED_ELEMENT_ATTRIBUTES" />
     </inspection_tool>
-    <inspection_tool class="Convert2Lambda" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="Convert2Lambda" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" editorAttributes="NOT_USED_ELEMENT_ATTRIBUTES" />
     </inspection_tool>
-    <inspection_tool class="Convert2MethodRef" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="Convert2MethodRef" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="Convert2streamapi" enabled="true" level="INFORMATION" enabled_by_default="true">
+    <inspection_tool class="Convert2streamapi" enabled="false" level="INFORMATION" enabled_by_default="false">
       <scope name="Documentation" level="INFORMATION" enabled="false" />
     </inspection_tool>
     <inspection_tool class="ConvertJavadoc" enabled="false" level="WARNING" enabled_by_default="false">
@@ -879,13 +879,13 @@
     <inspection_tool class="EndlessStream" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="EnhancedSwitchBackwardMigration" enabled="true" level="INFORMATION" enabled_by_default="true">
+    <inspection_tool class="EnhancedSwitchBackwardMigration" enabled="false" level="INFORMATION" enabled_by_default="false">
       <scope name="Documentation" level="INFORMATION" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="EnhancedSwitchMigration" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="EnhancedSwitchMigration" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="EnumClass" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="EnumClass" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="EnumSwitchStatementWhichMissesCases" enabled="true" level="INFORMATION" enabled_by_default="true">
@@ -894,7 +894,7 @@
       </scope>
       <option name="ignoreSwitchStatementsWithDefault" value="true" />
     </inspection_tool>
-    <inspection_tool class="EnumerationCanBeIteration" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="EnumerationCanBeIteration" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="EqualsAndHashcode" enabled="true" level="WARNING" enabled_by_default="true">
@@ -912,7 +912,7 @@
     <inspection_tool class="EqualsOnSuspiciousObject" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="EqualsReplaceableByObjectsCall" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <inspection_tool class="EqualsReplaceableByObjectsCall" enabled="false" level="WEAK WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WEAK WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="EqualsUsesNonFinalVariable" enabled="true" level="WARNING" enabled_by_default="true">
@@ -1073,10 +1073,10 @@
     <inspection_tool class="FloatingPointEquality" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="FoldExpressionIntoStream" enabled="true" level="INFORMATION" enabled_by_default="true">
+    <inspection_tool class="FoldExpressionIntoStream" enabled="false" level="INFORMATION" enabled_by_default="false">
       <scope name="Documentation" level="INFORMATION" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="ForCanBeForeach" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="ForCanBeForeach" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false">
         <option name="REPORT_INDEXED_LOOP" value="true" />
         <option name="ignoreUntypedCollections" value="false" />
@@ -1096,10 +1096,10 @@
       </scope>
       <option name="ignoreCollectionLoops" value="false" />
     </inspection_tool>
-    <inspection_tool class="ForeachStatement" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="ForeachStatement" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="ForwardCompatibility" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="ForwardCompatibility" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="FrequentlyUsedInheritorInspection" enabled="true" level="INFORMATION" enabled_by_default="true">
@@ -1111,7 +1111,7 @@
     <inspection_tool class="FuseStreamOperations" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="Guava" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="Guava" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="HardCodedStringLiteral" enabled="false" level="WARNING" enabled_by_default="false">
@@ -1176,7 +1176,7 @@
     <inspection_tool class="IfCanBeAssertion" enabled="true" level="INFORMATION" enabled_by_default="true">
       <scope name="Documentation" level="INFORMATION" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="IfCanBeSwitch" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="IfCanBeSwitch" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false">
         <option name="minimumBranches" value="3" />
         <option name="suggestIntSwitches" value="false" />
@@ -1237,16 +1237,16 @@
     <inspection_tool class="IncompatibleMask" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="InconsistentLanguageLevel" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="InconsistentLanguageLevel" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="InconsistentTextBlockIndent" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="InconsistentTextBlockIndent" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="IncrementDecrementUsedAsExpression" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="IndexOfReplaceableByContains" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="IndexOfReplaceableByContains" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="InfiniteLoopStatement" enabled="true" level="WARNING" enabled_by_default="true">
@@ -1371,7 +1371,7 @@
       </scope>
       <option name="insideTryAllowed" value="false" />
     </inspection_tool>
-    <inspection_tool class="JUnit3StyleTestMethodInJUnit4Class" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="JUnit3StyleTestMethodInJUnit4Class" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="JUnit4AnnotatedMethodInJUnit3TestCase" enabled="true" level="WARNING" enabled_by_default="true">
@@ -1380,22 +1380,22 @@
     <inspection_tool class="JUnitTestNG" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="Java8CollectionRemoveIf" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="Java8CollectionRemoveIf" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="Java8ListReplaceAll" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="Java8ListReplaceAll" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="Java8ListSort" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="Java8ListSort" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="Java8MapApi" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="Java8MapApi" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="Java8MapForEach" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="Java8MapForEach" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="Java9CollectionFactory" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <inspection_tool class="Java9CollectionFactory" enabled="false" level="WEAK WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WEAK WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="Java9ModuleExportsPackageToItself" enabled="true" level="WARNING" enabled_by_default="true">
@@ -1425,7 +1425,7 @@
     <inspection_tool class="JavaReflectionMemberAccess" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="JavaRequiresAutoModule" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="JavaRequiresAutoModule" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="JavacQuirks" enabled="true" level="WARNING" enabled_by_default="true">
@@ -1461,7 +1461,7 @@
     <inspection_tool class="LambdaBodyCanBeCodeBlock" enabled="true" level="INFORMATION" enabled_by_default="true">
       <scope name="Documentation" level="INFORMATION" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="LambdaCanBeMethodCall" enabled="true" level="INFORMATION" enabled_by_default="true">
+    <inspection_tool class="LambdaCanBeMethodCall" enabled="false" level="INFORMATION" enabled_by_default="false">
       <scope name="Documentation" level="INFORMATION" enabled="false" />
     </inspection_tool>
     <inspection_tool class="LambdaCanBeReplacedWithAnonymous" enabled="true" level="INFORMATION" enabled_by_default="true">
@@ -1621,7 +1621,7 @@
     <inspection_tool class="MethodCallInLoopCondition" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="MethodCanBeVariableArityMethod" enabled="true" level="INFORMATION" enabled_by_default="true">
+    <inspection_tool class="MethodCanBeVariableArityMethod" enabled="false" level="INFORMATION" enabled_by_default="false">
       <scope name="Documentation" level="INFORMATION" enabled="false" />
     </inspection_tool>
     <inspection_tool class="MethodCount" enabled="true" level="WARNING" enabled_by_default="true">
@@ -1746,7 +1746,7 @@
     <inspection_tool class="MissingSerialAnnotation" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="MissortedModifiers" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="MissortedModifiers" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false">
         <option name="m_requireAnnotationsFirst" value="true" />
       </scope>
@@ -2227,7 +2227,7 @@
       </scope>
       <option name="m_limit" value="5" />
     </inspection_tool>
-    <inspection_tool class="PatternVariableCanBeUsed" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="PatternVariableCanBeUsed" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="PatternVariableHidesField" enabled="true" level="WARNING" enabled_by_default="true">
@@ -2351,7 +2351,7 @@
     <inspection_tool class="RandomDoubleForRandomInteger" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="RawUseOfParameterizedType" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="RawUseOfParameterizedType" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="ReadObjectAndWriteObjectPrivate" enabled="true" level="WARNING" enabled_by_default="true">
@@ -2363,10 +2363,10 @@
     <inspection_tool class="ReadResolveAndWriteReplaceProtected" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="ReadWriteStringCanBeUsed" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="ReadWriteStringCanBeUsed" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="ReassignedVariable" enabled="true" level="TEXT ATTRIBUTES" enabled_by_default="true">
+    <inspection_tool class="ReassignedVariable" enabled="false" level="TEXT ATTRIBUTES" enabled_by_default="false">
       <scope name="Documentation" level="TEXT ATTRIBUTES" enabled="false" editorAttributes="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES" />
     </inspection_tool>
     <inspection_tool class="RecordCanBeClass" enabled="true" level="INFORMATION" enabled_by_default="true">
@@ -2396,7 +2396,7 @@
     <inspection_tool class="RedundantExplicitClose" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" editorAttributes="NOT_USED_ELEMENT_ATTRIBUTES" />
     </inspection_tool>
-    <inspection_tool class="RedundantExplicitVariableType" enabled="true" level="INFORMATION" enabled_by_default="true">
+    <inspection_tool class="RedundantExplicitVariableType" enabled="false" level="INFORMATION" enabled_by_default="false">
       <scope name="Documentation" level="INFORMATION" enabled="false" editorAttributes="NOT_USED_ELEMENT_ATTRIBUTES" />
     </inspection_tool>
     <inspection_tool class="RedundantFieldInitialization" enabled="true" level="WARNING" enabled_by_default="true">
@@ -2486,7 +2486,7 @@
     <inspection_tool class="ReplaceInefficientStreamCount" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="ReplaceNullCheck" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="ReplaceNullCheck" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="ReplaceOnLiteralHasNoEffect" enabled="true" level="WARNING" enabled_by_default="true">
@@ -2537,7 +2537,7 @@
     <inspection_tool class="SafeLock" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="SafeVarargsDetector" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="SafeVarargsDetector" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="SamePackageImport" enabled="false" level="WARNING" enabled_by_default="false">
@@ -2615,7 +2615,7 @@
     <inspection_tool class="SimpleDateFormatWithoutLocale" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="SimplifiableAnnotation" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="SimplifiableAnnotation" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" editorAttributes="NOT_USED_ELEMENT_ATTRIBUTES" />
     </inspection_tool>
     <inspection_tool class="SimplifiableAssertion" enabled="true" level="WARNING" enabled_by_default="true">
@@ -2636,7 +2636,7 @@
     <inspection_tool class="SimplifyCollector" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="SimplifyForEach" enabled="true" level="INFORMATION" enabled_by_default="true">
+    <inspection_tool class="SimplifyForEach" enabled="false" level="INFORMATION" enabled_by_default="false">
       <scope name="Documentation" level="INFORMATION" enabled="false" />
     </inspection_tool>
     <inspection_tool class="SimplifyOptionalCallChains" enabled="true" level="WARNING" enabled_by_default="true">
@@ -2651,7 +2651,7 @@
     <inspection_tool class="SingleClassImport" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="SingleElementAnnotation" enabled="true" level="INFORMATION" enabled_by_default="true">
+    <inspection_tool class="SingleElementAnnotation" enabled="false" level="INFORMATION" enabled_by_default="false">
       <scope name="Documentation" level="INFORMATION" enabled="false" />
     </inspection_tool>
     <inspection_tool class="SingleStatementInBlock" enabled="true" level="INFORMATION" enabled_by_default="true">
@@ -2722,7 +2722,7 @@
     <inspection_tool class="StaticNonFinalField" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="StaticPseudoFunctionalStyleMethod" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="StaticPseudoFunctionalStyleMethod" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="StaticVariableInitialization" enabled="true" level="WARNING" enabled_by_default="true">
@@ -2749,7 +2749,7 @@
     <inspection_tool class="StringBufferReplaceableByString" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="StringBufferReplaceableByStringBuilder" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="StringBufferReplaceableByStringBuilder" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="StringBufferToStringInConcatenation" enabled="true" level="WARNING" enabled_by_default="true">
@@ -2803,7 +2803,7 @@
     <inspection_tool class="StringOperationCanBeSimplified" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" editorAttributes="NOT_USED_ELEMENT_ATTRIBUTES" />
     </inspection_tool>
-    <inspection_tool class="StringRepeatCanBeUsed" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="StringRepeatCanBeUsed" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="StringReplaceableByStringBuffer" enabled="true" level="WARNING" enabled_by_default="true">
@@ -2992,16 +2992,16 @@
       </scope>
       <option name="ignoreSupers" value="true" />
     </inspection_tool>
-    <inspection_tool class="TestMethodInProductCode" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="TestMethodInProductCode" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="TestMethodWithoutAssertion" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="TextBlockBackwardMigration" enabled="true" level="INFORMATION" enabled_by_default="true">
+    <inspection_tool class="TextBlockBackwardMigration" enabled="false" level="INFORMATION" enabled_by_default="false">
       <scope name="Documentation" level="INFORMATION" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="TextBlockMigration" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="TextBlockMigration" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="TextLabelInSwitchStatement" enabled="true" level="WARNING" enabled_by_default="true">
@@ -3089,7 +3089,7 @@
     <inspection_tool class="TooBroadThrows" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="TrailingWhitespacesInTextBlock" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="TrailingWhitespacesInTextBlock" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="TransientFieldInNonSerializableClass" enabled="true" level="WARNING" enabled_by_default="true">
@@ -3107,13 +3107,13 @@
     <inspection_tool class="TrivialStringConcatenation" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="TryFinallyCanBeTryWithResources" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="TryFinallyCanBeTryWithResources" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="TryStatementWithMultipleResources" enabled="true" level="INFORMATION" enabled_by_default="true">
       <scope name="Documentation" level="INFORMATION" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="TryWithIdenticalCatches" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="TryWithIdenticalCatches" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="TypeMayBeWeakened" enabled="true" level="WARNING" enabled_by_default="true">
@@ -3132,7 +3132,7 @@
     <inspection_tool class="TypeParameterExtendsFinalClass" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="TypeParameterExtendsObject" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="TypeParameterExtendsObject" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="TypeParameterHidesVisibleType" enabled="true" level="WARNING" enabled_by_default="true">
@@ -3187,7 +3187,7 @@
       </scope>
       <option name="ignoreSwitchBranches" value="false" />
     </inspection_tool>
-    <inspection_tool class="UnnecessaryBoxing" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="UnnecessaryBoxing" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="UnnecessaryBreak" enabled="true" level="WARNING" enabled_by_default="true">
@@ -3199,7 +3199,7 @@
     <inspection_tool class="UnnecessaryConstantArrayCreationExpression" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" editorAttributes="NOT_USED_ELEMENT_ATTRIBUTES" />
     </inspection_tool>
-    <inspection_tool class="UnnecessaryConstructor" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="UnnecessaryConstructor" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" editorAttributes="NOT_USED_ELEMENT_ATTRIBUTES" />
     </inspection_tool>
     <inspection_tool class="UnnecessaryContinue" enabled="true" level="WARNING" enabled_by_default="true">
@@ -3300,7 +3300,7 @@
     <inspection_tool class="UnnecessaryUnaryMinus" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" editorAttributes="NOT_USED_ELEMENT_ATTRIBUTES" />
     </inspection_tool>
-    <inspection_tool class="UnnecessaryUnboxing" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="UnnecessaryUnboxing" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="UnnecessaryUnicodeEscape" enabled="true" level="WARNING" enabled_by_default="true">
@@ -3373,7 +3373,7 @@
     <inspection_tool class="UseBulkOperation" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="UseCompareMethod" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="UseCompareMethod" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="UseOfAWTPeerClass" enabled="true" level="WARNING" enabled_by_default="true">
@@ -3439,13 +3439,13 @@
       </option>
       <option name="ignoreClassesWithOnlyMain" value="false" />
     </inspection_tool>
-    <inspection_tool class="VarargParameter" enabled="true" level="INFORMATION" enabled_by_default="true">
+    <inspection_tool class="VarargParameter" enabled="false" level="INFORMATION" enabled_by_default="false">
       <scope name="Documentation" level="INFORMATION" enabled="false" />
     </inspection_tool>
     <inspection_tool class="VariableNotUsedInsideIf" enabled="true" level="WARNING" enabled_by_default="true">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
-    <inspection_tool class="VariableTypeCanBeExplicit" enabled="true" level="INFORMATION" enabled_by_default="true">
+    <inspection_tool class="VariableTypeCanBeExplicit" enabled="false" level="INFORMATION" enabled_by_default="false">
       <scope name="Documentation" level="INFORMATION" enabled="false" />
     </inspection_tool>
     <inspection_tool class="VolatileArrayField" enabled="true" level="WARNING" enabled_by_default="true">
@@ -3479,7 +3479,7 @@
       <option name="SUGGEST_PACKAGE_LOCAL_FOR_TOP_CLASSES" value="true" />
       <option name="SUGGEST_PRIVATE_FOR_INNERS" value="false" />
     </inspection_tool>
-    <inspection_tool class="WhileCanBeForeach" enabled="true" level="WARNING" enabled_by_default="true">
+    <inspection_tool class="WhileCanBeForeach" enabled="false" level="WARNING" enabled_by_default="false">
       <scope name="Documentation" level="WARNING" enabled="false" />
     </inspection_tool>
     <inspection_tool class="WhileLoopSpinsOnField" enabled="true" level="WARNING" enabled_by_default="true">
