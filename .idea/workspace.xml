@@ -42,18 +42,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/sstre/IdeaProjects/NucleotideCount_TestProjects",
+    "last_opened_file_path": "D:/My Drive/SBCC/CS106/TestCode/JavaCoreTemplate/lib",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.21663244",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications"
+    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\My Drive\SBCC\CS106\TestCode\JavaCoreTemplate\lib" />
+      <recent name="D:\My Drive\SBCC\CS106\TestCode\JavaCoreTemplate" />
       <recent name="G:\My Drive\SBCC\CS106\TestCode\JavaCoreTemplate\lib" />
       <recent name="C:\Users\sstre\IdeaProjects\JavaCoreTemplate" />
     </key>
@@ -119,7 +121,7 @@
       <workItem from="1670608528490" duration="1367000" />
       <workItem from="1670614343793" duration="3224000" />
       <workItem from="1670635133331" duration="203000" />
-      <workItem from="1670635347206" duration="3622000" />
+      <workItem from="1670635347206" duration="3955000" />
     </task>
     <servers />
   </component>
