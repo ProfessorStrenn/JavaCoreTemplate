@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f06d6d1-c3be-4eb8-b4df-25f1aa514b6a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sbccunittest/WeatherTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCoreTemplate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/weather.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs106/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs106/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +45,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "19",
     "last_opened_file_path": "D:/My Drive/SBCC/CS106/TestCode/JavaCoreTemplate/lib",
     "node.js.detected.package.eslint": "true",
@@ -49,7 +57,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.21663244",
-    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -62,8 +70,56 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sstre\IdeaProjects\JavaCoreTemplate\src\changemyname" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sbccunittest" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.WeatherTester [*]">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs106.Main" />
+      <module name="weather" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs106.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherTester [*]" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weather" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sbccunittest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sbccunittest" />
+      <option name="MAIN_CLASS_NAME" value="sbccunittest.WeatherTester" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherTester.testWeatherForRandomCity [*]" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weather" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sbccunittest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sbccunittest" />
+      <option name="MAIN_CLASS_NAME" value="sbccunittest.WeatherTester" />
+      <option name="METHOD_NAME" value="testWeatherForRandomCity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="batch_grader" />
       <method v="2">
@@ -77,6 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WeatherTester [*]" />
+        <item itemvalue="JUnit.WeatherTester.testWeatherForRandomCity [*]" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -122,6 +185,12 @@
       <workItem from="1670614343793" duration="3224000" />
       <workItem from="1670635133331" duration="203000" />
       <workItem from="1670635347206" duration="3955000" />
+      <workItem from="1675471525582" duration="4143000" />
+      <workItem from="1675482070438" duration="2794000" />
+      <workItem from="1675485005162" duration="1145000" />
+      <workItem from="1675624430131" duration="16816000" />
+      <workItem from="1677372279766" duration="1435000" />
+      <workItem from="1684550591501" duration="2060000" />
     </task>
     <servers />
   </component>
