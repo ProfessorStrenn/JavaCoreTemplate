@@ -1,10 +1,8 @@
-# JAVA CORE TEMPLATE - QUICKSTART
+# HOW TO START EACH CS106 PROJECT IN INTELLIJ:
 
-To start each project in Intellij IDEA:
-
-1. **File | New | Project from Version Control...** (or Get from VCS at the Welcome window).
+1. **File | New | Project from Version Control...** (or **Get from VCS** at the Welcome window).
 2. Enter `https://github.com/ProfessorStrenn/JavaCoreTemplate` for the URL.
-3. Change the last Directory element from ` javaCoreTemplate` to the name of your project -
+3. Change the last Directory element from `JavaCoreTemplate` to the name of your project -
    e.g. `MMarciano_RockCountdown_F35`.
 4. Clone.
 
