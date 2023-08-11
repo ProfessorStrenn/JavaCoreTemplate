@@ -27,6 +27,10 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
   <component name="ProjectId" id="2FblRnnGpndzqlBHvdeBP6oCKA0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,14 +45,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "D:/My Drive/SBCC/CS106/TestCode/JavaCoreTemplate/lib",
+    "last_opened_file_path": "G:/My Drive/SBCC/CS106/TestCode/JavaCoreTemplate",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.21663244",
+    "project.structure.side.proportion": "0.29885057",
     "settings.editor.selected.configurable": "preferences.intentionPowerPack"
   }
 }]]></component>
@@ -122,6 +127,7 @@
       <workItem from="1670614343793" duration="3224000" />
       <workItem from="1670635133331" duration="203000" />
       <workItem from="1670635347206" duration="3955000" />
+      <workItem from="1691782080674" duration="296000" />
     </task>
     <servers />
   </component>
