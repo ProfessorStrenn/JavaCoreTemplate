@@ -13,7 +13,7 @@ statically imported, allowing you to do things like:
 
 # println
 
-Eliminate the EVIL `System.out.` and just use:
+Eliminate the EEEVIL `System.out.` and just use:
 
 ``` java
 println("Hello");
