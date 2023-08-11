@@ -27,9 +27,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2FblRnnGpndzqlBHvdeBP6oCKA0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,7 +52,7 @@
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Problems",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2657952",
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
@@ -131,6 +131,7 @@
       <workItem from="1691782615598" duration="199000" />
       <workItem from="1691782986173" duration="32000" />
       <workItem from="1691783429741" duration="178000" />
+      <workItem from="1691783758654" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="Changed project sdk to JDK 20">
       <option name="closed" value="true" />
