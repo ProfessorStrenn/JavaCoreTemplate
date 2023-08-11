@@ -3,9 +3,8 @@
 1. **File | New | Project from Version Control...** (or **Get from VCS** at the Welcome window).
 2. Enter `https://github.com/ProfessorStrenn/JavaCoreTemplate` for the URL.
 3. Change the last Directory element from `JavaCoreTemplate` to the name of your project -
-   e.g. `MMarciano_RockCountdown_F35`.
-4. Clone.
-5. When the cloning completes, right-click on the project name | Refactor | Rename.  Set the module name to match the project name - e.g. `MMarciano_RockCountdown_F35`.
+   e.g. `MMarciano_RockCountdown_F35`.  Click Clone.
+4. When the cloning completes, right-click on the project name | Refactor | Rename.  Set the module name to match the project name - e.g. `MMarciano_RockCountdown_F35`.
 
 # A SIMPLER JAVA
 
