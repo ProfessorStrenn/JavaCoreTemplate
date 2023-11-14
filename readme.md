@@ -128,6 +128,5 @@ classes, simply put the following static imports at the top of the `.java` file:
 import static sbcc.Core.*;
 import static org.apache.commons.lang3.StringUtils.*;
 import static java.lang.System.*;
-import static java.util.Arrays.*;
 import static java.lang.Math.*;
 ```
