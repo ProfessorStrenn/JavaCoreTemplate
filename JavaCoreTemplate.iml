@@ -13,5 +13,7 @@
     <orderEntry type="library" name="junit-4.13.2" level="project" />
     <orderEntry type="library" name="sbcccore.1.0.10" level="project" />
     <orderEntry type="library" name="sbccunittestsupport.1.0.0" level="project" />
+    <orderEntry type="library" name="commons-lang3-3.18.0" level="project" />
+    <orderEntry type="library" name="commons-io-2.20.0" level="project" />
   </component>
 </module>
