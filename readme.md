@@ -3,7 +3,7 @@
 1. **File | New | Project from Version Control...** (or **Get from VCS** at the Welcome window).
 2. Enter `https://github.com/ProfessorStrenn/JavaCoreTemplate` for the URL.
 3. In the _Directory_ textbox, change the last directory element from `JavaCoreTemplate` to the name of your project -
-   e.g. `MMarciano_RockCountdown_F35`.  Click Clone.
+   e.g. `MMarciano_RockCountdown_F35`. Click Clone.
 
 # A SIMPLER JAVA
 
@@ -96,7 +96,8 @@ for (var x : range(10))
 # join, substringsBetween, substringBefore, substringAfter, reverse, and more
 
 The JavaCoreTemplate includes the
-exceptional [`StringUtils`](https://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/StringUtils.html)
+exceptional [
+`StringUtils`](https://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/StringUtils.html)
 , which has `join`, `substringsBetween`, `reverse`, etc. For example:
 
 ``` java
@@ -129,3 +130,5 @@ import static org.apache.commons.lang3.StringUtils.*;
 import static java.lang.System.*;
 import static java.lang.Math.*;
 ```
+
+Targets JDK 25
